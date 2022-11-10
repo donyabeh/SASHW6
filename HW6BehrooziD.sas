@@ -1,9 +1,3 @@
-/*********************************************/
-/* STAT 330, Fall 2022						 */
-/* Homework #6A								 */
-/* Donya Behroozi and Grace Trenholme		 */
-/*********************************************/
-
 *1;
 filename MEPSfile "/home/u62368731/my_shared_file_links/ulund/STAT 330/Data/Homework/H224.DAT"; 
  
